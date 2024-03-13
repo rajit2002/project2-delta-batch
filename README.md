@@ -9,3 +9,8 @@ created by shradha khapra
 
 $ student 
  name = rajit kumar
+
+
+ # duration 
+ 4 months
+ 
